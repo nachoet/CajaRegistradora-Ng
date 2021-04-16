@@ -1,0 +1,22 @@
+h3 {
+  text-transform: uppercase;
+  background-color: limegreen;
+  padding: 10px;
+  color: white;
+}
+
+.total {
+  background-color: lightseagreen;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.productos {
+  display: flex;
+  flex-direction: column;
+}
+
+.producto {
+  cursor: pointer;
+}
