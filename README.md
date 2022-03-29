@@ -1,6 +1,12 @@
 # CajaRegistradora
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+Part of the Angular projects course from Udemy done by Ignacio E. during a boot camp in Angular and Angular CLI. A simple food ordering list ready for any gastrononomic business purposes.
+
+## How to install on your computer
+
+git clone my repository into your chosen folder and then execute npm install to install necessary files.
+cd into your newly created directory and then run the server in your localhost. See next section.
 
 ## Development server
 
